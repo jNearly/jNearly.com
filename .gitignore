@@ -1,0 +1,5 @@
+node_modules
+*.log
+
+app/index.html
+app/assets/build
